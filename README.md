@@ -1,9 +1,9 @@
-# RecyclerView-1
+# RecyclerView-2
 
-![Screenshot1](https://github.com/nabilatamimi/RecyclerView-1/blob/master/Screenshot_2016-11-09-21-03-15-82%5B1%5D.png)
-![Screenshot2](https://github.com/nabilatamimi/RecyclerView-1/blob/master/Screenshot_2016-11-09-21-03-43-58%5B1%5D.png)<br><br>
+![Screenshot](https://github.com/nabilatamimi/RecyclerView2/blob/master/Screenshot_2017-01-02-18-53-36-669%5B1%5D.png)
+![Screenshot](https://github.com/nabilatamimi/RecyclerView2/blob/master/Screenshot_2017-01-02-23-00-51-21%5B1%5D.png)<br><br>
 
-Judul Project : RecyclerView 1 (List) <br>
+Judul Project : RecyclerView 2 <br>
 Nama : Nabila Tamimi <br>
 Kelas : XI RPL 2 <br>
 Absen : 17 <br>
